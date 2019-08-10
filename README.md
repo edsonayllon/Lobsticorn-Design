@@ -5,8 +5,7 @@ Web 3 inspired lobster design for ETHBoston. See repository for all images and f
 
 ![](assets/README-feb1b9b3.jpg)
 
-![](assets/README-0d2de1dc.jpg)
 
 Graphic alone:
 
-![](png/web3lobster.png)
+![](png/web3lobsterwhitbg.png)
