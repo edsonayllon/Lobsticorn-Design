@@ -9,3 +9,7 @@ Web 3 inspired lobster design for ETHBoston. See repository for all images and f
 Graphic alone:
 
 ![](png/web3lobster.png)
+
+Version 2 (ETH logo version):
+
+![](png/web3lobsterETH2.png)
