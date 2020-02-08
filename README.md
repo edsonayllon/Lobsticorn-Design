@@ -1,3 +1,15 @@
+---
+author: Edson Ayllon
+category: graphic design
+tags: 
+- web3
+status: complete
+twitter: https://twitter.com/relativeread
+---
+
+## Project 7-2019
+
+
 # Web 3 Lobsticorn Design
 
 Web 3 inspired lobster design for ETHBoston. See repository for all images and files.
